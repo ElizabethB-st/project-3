@@ -2,7 +2,7 @@
 
 - https://elizabethb-st.github.io/
 
-<h2>281 Project 3 Learning Outcomes</h2>
+## 281 Project 3 Learning Outcomes
 
 - A web API or Application Programming Interface is an API
   accessed using the HTTP protocol. Web APIs often deliver data
@@ -16,8 +16,7 @@
 - Use jQuery, JavaScript, and public APIs to fetch JSON data, then
   use it to refresh part of a web page
 
-<h2>281 Project 2 Learning
-   Outcomes</h2>
+## 281 Project 2 Learning Outcomes
 
 - A web API or Application Programming Interface is an API
   accessed using the HTTP protocol.
@@ -30,8 +29,7 @@
   Flickr offers several public APIs.
 - In this project, you will use Flickr's public API.
 
-<h2>281 Project 1
-   Learning Outcomes</h2>
+## 281 Project 1 Learning Outcomes
 
 - Basic Unix Shell commands
 - Install and Configure Git using the Unix Shell
