@@ -33,7 +33,7 @@ let bitBatBotOrNot = n => {
 let findAllbitBatBotOrNots1 = arr => {
   let resultArr = [];
   let myFunction = arr => {
-    let result = `${arr.valueOf()}: ` + bitBatBotOrNot(arr);
+    let result = `${arr}: ` + bitBatBotOrNot(arr);
     return result;
   };
   //using arry.map method
