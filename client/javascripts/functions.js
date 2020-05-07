@@ -76,6 +76,17 @@ let findAllbitBatBotOrNots4 = arr => {
   return resultArr;
 };
 
+//Req. 5 XC
+let findAllbitBatBotOrNotsXC = arr => {
+  let resultArr = [];
+  //using for..in loop
+  for (var i in arr) {
+    //using arry.push method
+    resultArr.push(`${arr[i]}: ` + bitBatBotOrNot(arr[i]));
+  }
+  return resultArr;
+};
+
 //test the functions
 
 findAllbitBatBotOrNots1(arrOf1To100);
